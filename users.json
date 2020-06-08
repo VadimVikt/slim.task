@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Сидоров Александр Аркадьевич",
+            "email": "sidorov@email.ru",
+            "age": "55"
+        },
+        {
+            "id": 2,
+            "name": "Иванов Иван Иваныч",
+            "email": "ivanov@mail.eu",
+            "age": "35"
+        },
+        {
+            "id": 3,
+            "name": "Петров Петр Петрович",
+            "email": "petrov@mail.ru",
+            "age": "31"
+        }
+    ]
+}
